@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hello world!!!
 lopihara 1000
+=======
+
+>>>>>>> c62cb82e12e019fd1666685f1c35f2a6c1c31e36
